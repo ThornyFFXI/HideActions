@@ -1,10 +1,10 @@
 return {
-    Spells = T{ 'Naji', 'Curilla', 'Zeid', 'Lion', 'Teleport-Dem' },
-    WeaponSkills = T{ 'Burning Blade' },
-    Abilities = T{ 'Double-Up' },
-    PetAbilities = T{ 'Retreat' },
-    Traits = T{ 'Resist Paralyze' },
-    Mounts = T{ 'Raptor' },
+    Spells = T{ },
+    WeaponSkills = T{ },
+    Abilities = T{ },
+    PetAbilities = T{ },
+    Traits = T{ },
+    Mounts = T{ },
 };
 
 --[[
